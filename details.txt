@@ -1,0 +1,4 @@
+1 Developer – responsible for writing and updating code.
+2 Tester – responsible for validating application functionality.
+3 Team Lead – responsible for reviewing code and managing merges.
+4 DevOps Engineer – responsible for CI/CD and deployment processes.
